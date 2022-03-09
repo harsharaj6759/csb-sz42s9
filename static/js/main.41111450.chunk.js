@@ -1,0 +1,2 @@
+(this["webpackJsonpwebsite-clone"]=this["webpackJsonpwebsite-clone"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),s=n(3),i=n.n(s),o=(n(8),n(0));function r(){return Object(o.jsxs)("div",{className:"App",children:[Object(o.jsx)("h1",{children:"Hello CodeSandbox"}),Object(o.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var d=document.getElementById("root");i.a.render(Object(o.jsx)(c.StrictMode,{children:Object(o.jsx)(r,{})}),d)},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.41111450.chunk.js.map
